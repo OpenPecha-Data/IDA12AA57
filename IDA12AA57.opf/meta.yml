@@ -1,0 +1,136 @@
+id: IDA12AA57
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:35:34.361461'
+last_modified: '2022-06-17T11:35:34.361466'
+parser: null
+source_metadata:
+  title: Confession Series
+  language: es
+  description: 'Lotsawa House presents the following texts related to the practice
+    of confession (bshags pa):'
+  volume:
+    fE5E8:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      base_file: fE5E8.txt
+      order: 1
+      parent: Canonical Works
+    fB47D:
+      title: The Bodhisattva’s Confession of Downfalls (Nyingma Version)
+      base_file: fB47D.txt
+      order: 2
+      parent: Canonical Works
+    fA894:
+      title: The Lament of Rudra
+      base_file: fA894.txt
+      order: 3
+      parent: Canonical Works
+    f6AB1:
+      title: The Noble Sūtra of the Teaching on the Four Factors
+      base_file: f6AB1.txt
+      order: 4
+      parent: Canonical Works
+    fABB2:
+      title: The Ultimate Inexpressible Confession (Yeshe Kuchokma)
+      base_file: fABB2.txt
+      order: 5
+      parent: Canonical Works
+    f4871:
+      title: Verses of Confession 'Düsum Deshekma'
+      base_file: f4871.txt
+      order: 6
+      parent: Canonical Works
+    f3C8D:
+      title: Guide to the Practice of Narak Kong Shak
+      base_file: f3C8D.txt
+      order: 7
+      parent: Commentaries
+    f42B4:
+      title: A Topical Outline of the General Confession Spoken by the Five Great
+        Sages
+      base_file: f42B4.txt
+      order: 8
+      parent: Outlines
+    f91F9:
+      title: Root Downfalls of the Vajra Vehicle
+      base_file: f91F9.txt
+      order: 9
+      parent: Practices
+    fB408:
+      title: The Inexpressible, Ultimate Confession (Yeshe Kuchokma)
+      base_file: fB408.txt
+      order: 10
+      parent: Practices
+    f7729:
+      title: The Lament of Rudra
+      base_file: f7729.txt
+      order: 11
+      parent: Practices
+    f9744:
+      title: Heart of Vajrasattva—The Heart of Confession, the King of Purification
+        Practices, from 'The Immaculate Secret Vajrasattva'
+      base_file: f9744.txt
+      order: 12
+      parent: Practices
+    f2DEE:
+      title: 'Emptying the Hells from their Very Depths: The Sovereign Practice for
+        the Confession of all Impairments and Breakages of Vows and all Negative Actions
+        and Obscurations'
+      base_file: f2DEE.txt
+      order: 13
+      parent: Practices
+    fB57E:
+      title: A Practice of Fulfilment and Confession to an Ocean of Oath-bound Protectors
+      base_file: fB57E.txt
+      order: 14
+      parent: Practices
+    fDC55:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      base_file: fDC55.txt
+      order: 15
+      parent: Practices
+    f83A9:
+      title: A Discourse on the Confession of Harmful Deeds Spoken by Yama Dharmarāja
+        to Karma Chakme
+      base_file: f83A9.txt
+      order: 16
+      parent: Practices
+    f77A8:
+      title: Brief Confession to the Earth Lords
+      base_file: f77A8.txt
+      order: 17
+      parent: Practices
+    f281C:
+      title: A Method of Confessing and Pledging through the Four Powers
+      base_file: f281C.txt
+      order: 18
+      parent: Practices
+    f302B:
+      title: Rays of Moonlight to Dispel the Darkness of Misdeeds
+      base_file: f302B.txt
+      order: 19
+      parent: Practices
+    f509B:
+      title: Method of Confession based on the Four Powers
+      base_file: f509B.txt
+      order: 20
+      parent: Practices
+    f0204:
+      title: The Sovereign of Confessions for all Impairments and Breakages, Extracted
+        from the Rampant Elephant Tantra
+      base_file: f0204.txt
+      order: 21
+      parent: Practices
+    f6A33:
+      title: A Prayer to Recognize My Own Faults and Keep in Mind the Objects of Refuge
+      base_file: f6A33.txt
+      order: 22
+      parent: Prayer
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
